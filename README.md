@@ -17,3 +17,12 @@ RULE FOR FORKERS: PLEASE MAKE YOUR FORKS A ACTUAL OPERATING SYSTEM, OR ELSE WHAT
 
 —OFFICIAL VERSION FOR MICRO:BIT V2 ONLY—
 © 2026 Thomas Platt. Most rights reserved.
+
+What can I make with the kind of © "Most Rights Reserved"?
+this is what I allow:
+* forking it if it is intended to be a real OS.
+* using it as a kernel for operating systems.
+* actually owning the software you flashed for your Micro:Bit V2.
+* making videos on social media about the software.
+
+Anything else isn't allowed. Thank you for reading this list.
