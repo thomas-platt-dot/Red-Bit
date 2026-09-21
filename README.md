@@ -20,9 +20,10 @@ RULE FOR FORKERS: PLEASE MAKE YOUR FORKS A ACTUAL OPERATING SYSTEM, OR ELSE WHAT
 
 What can I make with the kind of © "Most Rights Reserved"?
 this is what I allow:
-* forking it if it is intended to be a real OS.
+* forking it if it is intended to be a real OS. (do *not* name it Red-Bit, the original project)
 * using it as a kernel for operating systems.
 * actually owning the software you flashed for your Micro:Bit V2.
 * making videos on social media about the software.
+* other products that are not meant to be a OS can have the name. 
 
 Anything else isn't allowed. Thank you for reading this list.
