@@ -18,7 +18,7 @@ RULE FOR FORKERS: PLEASE MAKE YOUR FORKS A ACTUAL OPERATING SYSTEM, OR ELSE WHAT
 —OFFICIAL VERSION FOR MICRO:BIT V2 ONLY—
 © 2026 Thomas Platt, Red-Bit™. Some rights reserved.
 
-What can I make with the kind of © "Most Rights Reserved"?
+What can I make with the kind of © "Some Rights Reserved"?
 this is what I allow:
 * forking it if it is intended to be a real OS. (do *not* name it Red-Bit, the original project)
 * using it as a kernel for operating systems.
