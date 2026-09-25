@@ -25,6 +25,6 @@ this is what I allow:
 * actually owning the software you flashed for your Micro:Bit V2.
 * making videos on social media about the software.
 * other products that are not meant to be a OS can have the name. 
-* People can distribute their forks on other websites, however they first have to post them on GitHub.
+* People can distribute their forks on other websites, however they first have to post them on GitHub, on the "Forks" tab of the repo.
 
 Anything else isn't allowed. Thank you for reading this list.
